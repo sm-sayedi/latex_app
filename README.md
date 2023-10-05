@@ -1,16 +1,19 @@
-# latex_app
+# LaTeX and CKEditor Reader
+This app reads and renders LaTeX equations and CKEditor-generated text. The app only accepts raw text or files with `.txt` and `.docx` extensions.
 
-A new Flutter project.
+## How to run the app
+  * Clone the repository and run the `flutter run` command and the app will run on your device!
+  * The repository contains three files in the `assets/files` directory, you can copy those files to your device and import them from the app.
 
-## Getting Started
+## Packages used in the project
+  * `flutter_tex` package is used to render LaTeX equations and CKEditor-generated text.
+  * `file_picker` package is used to pick text files from the device.
+  * `docx_to_text` package is used to convert `.docx` files to `String` format.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some previews of the app
+<table>
+  <tr>    
+    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/87885b1c-c9b5-4013-97f5-ee1c219d4308" width="300"/></td>
+    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/fd188b83-a765-417b-9f3f-fbaf249a9696" width="300"/></td>
+  </tr>
+</table>
