@@ -1,0 +1,25 @@
+A simple equation:
+\[
+ f(x)=(x+a)(x+b)
+\]
+An equation with text:
+\[
+50 \text{ apples} \times 100 \text{ apples} =
+\textbf{lots of apples}
+\]
+Greek Letters
+\[ \alpha,  \beta,  \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Phi, \xi, \zeta \]
+\[ \cos(2\theta\phi) = \cos^2 \theta\phi - \sin^2 \theta\phi \]
+Typesetting continued fractions is easy:
+\[
+x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}
+\]
+Accents
+\[
+        \tilde f(\omega)=\frac{1}{2\pi}
+        \int_{-\infty}^\infty f(x)e^{-i\omega x}\,dx\,,
+\]
+or
+\[
+        \dot{\vec \omega}=\vec r\times\vec I\,.
+\]
