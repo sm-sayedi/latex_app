@@ -13,7 +13,13 @@ This app reads and renders LaTeX equations and CKEditor-generated text. The app 
 ## Some previews of the app
 <table>
   <tr>    
-    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/87885b1c-c9b5-4013-97f5-ee1c219d4308" width="300"/></td>
-    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/fd188b83-a765-417b-9f3f-fbaf249a9696" width="300"/></td>
+    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/87885b1c-c9b5-4013-97f5-ee1c219d4308" width="250"/></td>
+    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/fd188b83-a765-417b-9f3f-fbaf249a9696" width="250"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/0ea4af00-2525-4712-bf4f-29fd54fbfd22" width="250"/></td>
+    <td><img src="https://github.com/sm-sayedi/latex_app/assets/59946442/c9bde2f7-24cf-460b-bf9d-ba71da89848d" width="250"/></td>
   </tr>
 </table>
